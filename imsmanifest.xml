@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5vCNIkQnrlk_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Sample: Food Allergy Challenge</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">The purpose of this lesson is to give an overview of food allergies.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Sample:_Food_Allergy_Challenge_ORG">
+    <organization identifier="Sample:_Food_Allergy_Challenge_ORG">
+      <title>Sample: Food Allergy Challenge</title>
+      <item identifier="Sample:_Food_Allergy_Challenge_SCO" isvisible="true" identifierref="__5vCNIkQnrlk_course_id_RES">
+        <title>Sample: Food Allergy Challenge</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5vCNIkQnrlk_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6lFk2Xg728X_80_DX1030_DY1030_CX612_CY414.jpg" />
+      <file href="mobile/6PwsiVBOkLZ_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/5XG6TAYxG2n_80_DX140_DY140_CX116_CY109.jpg" />
+      <file href="mobile/6C731YMvpuK_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/5Vjad9ZSsKP_80_DX136_DY136_CX99_CY107.jpg" />
+      <file href="mobile/5suvEdbmheh_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/6WIWRYoh7XU_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/6VWVpvVkrSA_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/6MzrZKYiiMn_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/5rWwob6GjrX_80_DX138_DY138_CX99_CY109.png" />
+      <file href="mobile/65P5ZdHLhu1_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/6p8qVwB4fRV_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/5WfnKAMapu7_80_DX138_DY138_CX99_CY109.jpg" />
+      <file href="mobile/6WLNdAA3ZHE_80_DX1440_DY1440_CX1133_CY436.jpg" />
+      <file href="story_content/report.html" />
+      <file href="mobile/6g8DWCGN5jr_80_DX1444_DY1444_CX1147_CY860.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6dbz6xIcPVn.jpg" />
+      <file href="mobile/Slide5ql8c3o4WUp.jpg" />
+      <file href="mobile/Slide6VmCocXRWYt.jpg" />
+      <file href="mobile/Slide69KEcISPZTk.jpg" />
+      <file href="mobile/Slide60sZ9YPzDiq.jpg" />
+      <file href="mobile/Slide62dFO3MKFnq.jpg" />
+      <file href="mobile/Slide6m7A9wHJFhP.jpg" />
+      <file href="mobile/Slide6oTuqtmubON.jpg" />
+      <file href="mobile/Shape5bwneD8f0Se.png" />
+      <file href="mobile/Shape6kLtFgHZBmX.png" />
+      <file href="mobile/Shape68SAQDEaSRV.png" />
+      <file href="mobile/Shape6DYwZobb3oq.png" />
+      <file href="mobile/Slide5WbswO7SoNS.jpg" />
+      <file href="mobile/Slide5hLYxA8qbtW.jpg" />
+      <file href="mobile/Slide6AAgMosUp00.jpg" />
+      <file href="mobile/Shape6oj9pj9KY0e.png" />
+      <file href="mobile/Shape6fA8gmVsWtY.png" />
+      <file href="mobile/Shape6acW1vgHHTA.png" />
+      <file href="mobile/Slide5ZOBUtGCNI6.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fdjekparGI.js" />
+      <file href="html5/data/js/5qXGaSmaJcB.js" />
+      <file href="html5/data/js/5UvpPySUOQm.js" />
+      <file href="html5/data/js/5V4SmVLXhX0.js" />
+      <file href="html5/data/js/5VIgc8i39Ji.js" />
+      <file href="html5/data/js/5WBDIfKtzPQ.js" />
+      <file href="html5/data/js/5XnqeTtxlKH.js" />
+      <file href="html5/data/js/64FPz0ejLm0.js" />
+      <file href="html5/data/js/65X0DpT4DhO.js" />
+      <file href="html5/data/js/68Xlq91BwNF.js" />
+      <file href="html5/data/js/6EYN2YPbx5o.js" />
+      <file href="html5/data/js/6X46RrS7Kho.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
